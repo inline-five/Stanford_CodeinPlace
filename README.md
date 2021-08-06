@@ -9,7 +9,6 @@ In this application, I used a summary of of 2018 airline ticket prices. It consi
 
 
 1  **************************************   38%
-
 2  **************************   26%
 3  ************   12%
 4  *****   5%
@@ -18,5 +17,6 @@ In this application, I used a summary of of 2018 airline ticket prices. It consi
 7  ***   3%
 8  ***   3%
 9  ***   3%
+
 
 You can see it closely resembles the curve, albeit at slightly different values.
