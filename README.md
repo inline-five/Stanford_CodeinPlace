@@ -10,8 +10,9 @@ In this application, I used a summary of of 2018 airline ticket prices. It consi
 Leading digit followed by % it occurs in data set:
 
 
-1  **************************************   38%
+1  **************************************   38%</br>
 2  **************************   26%
+
 3  ************   12%
 
 4  *****   5%
