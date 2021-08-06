@@ -12,20 +12,12 @@ Leading digit followed by % it occurs in data set:
 
 1  **************************************   38%</br>
 2  **************************   26%
-
-3  ************   12%
-
-4  *****   5%
-
-5  *****   5%
-
-6  ****   4%
-
-7  ***   3%
-
-8  ***   3%
-
-9  ***   3%
-
+3  ************   12%</br>
+4  *****   5%</br>
+5  *****   5%</br>
+6  ****   4%</br>
+7  ***   3%</br>
+8  ***   3%</br>
+9  ***   3%</br>
 
 You can see it closely resembles the curve, albeit at slightly different values.
