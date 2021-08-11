@@ -1,12 +1,5 @@
 import csv
 
-
-############ MAIN PROGRAM #############
-def main():
-    benford_results = populate_data()
-    print_results(benford_results)
-#######################################
-
 def populate_data():
     ''' This creates a blank dictionary and parses the values
     of the csv file to it '''
@@ -48,6 +41,13 @@ def print_results(insert_dict):
             print("*", end='')
         print("   " + str(stars_print)+ "%" )
     print("")
+
+
+############ MAIN PROGRAM #############
+def main():
+    benford_results = populate_data()
+    print_results(benford_results)
+#######################################
 
 if __name__ == "__main__":
     main()
